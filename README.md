@@ -13,26 +13,6 @@
     In order to create a website that was accessible to those with visual disorders a toggle system was implemented.<br />
     This toggle, when clicked, applies a colour invert-filter across the site and alters the layout to reduce eye-stress.<br />
     This is done through create more compact and spaced-out reviews and centering the navigation.<br />
-**Sound**<br />
-  Each round is accompanied with a background soundtrack, a victory sound-affect upon victory and defeat sound-affect upon defeat. <br />
-**Timer**<br />
-  Each round has a timer to indicate how long the round has been active, the timer stops updating at victory or defeat.<br />
-**Defeat**<br />
-  Detonating the bomb will lead to a defeat and unflips all tiles.<br />
-**Victory**<br />
-  Flipping all non-bomb tiles will lead to a victory
-## The 3 difficulty modes<br />
-```
-  Easy
-    9x9 Board
-    10 Mines & Flags
-  Medium
-    16x16 Board
-    40 Mines & Flags
-  Hard
-    24x24 Board
-    99 Mines & Flags
-```
 ## Photos of the websites different pages and functionalities
 ### Login
 <img width="1440" alt="Screenshot 2022-06-12 at 02 40 47" src="https://user-images.githubusercontent.com/74938876/174228173-c1246868-cf18-4175-87a4-faa4b85a72b6.png"><br />
