@@ -1,0 +1,43 @@
+.maintext{
+    color:white;
+}
+.guideText{
+    color:white;
+    font-size: 2vw;
+}
+.descriptive{
+    color: #DC592E;
+    font-size: 1vw;
+    padding-top: 0;
+    margin-top: 0;
+}
+.reviewTitle{
+    color: #DC592E;
+    font-size: 2vw;
+}
+.reviewName{
+    color:white;
+    font-size: 1.5vw;
+    margin-bottom: 0;
+}
+.reviewText{
+    color:white;
+    font-size: 2.5vw;
+    margin-top: 0;
+    border-style:none;
+    border-color:#051D29;
+    border-width:medium;
+}
+
+.reviewTime{
+    color:white;
+}
+.reviewHouse{
+    color:white;
+    font-size: 4vw;
+    margin-top: 0;
+}
+#inputText:focus, #inputName:focus, #room:focus, #rating:focus{
+    border: solid #051E29 5px; 
+    background-color:#FFF3B0;
+}
