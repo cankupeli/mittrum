@@ -39,9 +39,9 @@
 ### Create Account 
 <img width="1440" alt="Screenshot 2022-06-12 at 02 40 55" src="https://user-images.githubusercontent.com/74938876/174228209-96100225-ae4a-4090-a3a5-8d4461abd842.png"><br />
 ### Welcome page
-<img width="1440" alt="Screenshot 2022-06-12 at 02 41 04" src="https://user-images.githubusercontent.com/74938876/174228241-f90a9b4a-6a4b-42ff-a650-14ad9b159533.png"><br />
+<img width="1440" alt="Screenshot 2022-06-17 at 07 10 36" src="https://user-images.githubusercontent.com/74938876/174229404-72faca21-b660-4b9f-8cea-39c79477f65b.png"><br />
 ### Welcome page when toggled
-<img width="802" alt="Screenshot 2022-06-11 at 22 57 27" src="https://user-images.githubusercontent.com/74938876/174228506-7bea53ad-c49e-4cfc-83f8-e283198b4478.png"><br />
+<img width="1440" alt="Screenshot 2022-06-17 at 07 10 44" src="https://user-images.githubusercontent.com/74938876/174229425-26240e99-19e6-447f-83f6-5fa14c5ae766.png"><br />
 ### House page
 <img width="1440" alt="Screenshot 2022-06-12 at 02 41 15" src="https://user-images.githubusercontent.com/74938876/174228264-fd7b2997-c8fd-4cb2-8e4a-61f3ab3cf579.png"><br />
 ### Review
