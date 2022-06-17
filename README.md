@@ -1,18 +1,23 @@
 # MITTRUM<br />
 ## About
+
   This repository is a project submission for a web programming course.<br />
   The project is website that allows Mid Sweden University students to review study-rooms, and view reviews left by fellow peers.<br />
   The project was created in vanilla code with HTML, CSS, JavaScript and PHP.
 ## Functionality
+
   **Account system**<br />
+  
     To allow users to interact with the website and handle their own reviews, an account system is implemented.<br />
     This accoutn system allows users to create an account, login to that account and post reviews.<br />
     This also allows for reviews to corrospond to users by giving them an author.<br />
     The account system was implemented through PHP and the use of a database.<br />
   **Visually Impaired Accessibility Toggle**<br />
+  
     In order to create a website that was accessible to those with visual disorders a toggle system was implemented.<br />
     This toggle, when clicked, applies a colour invert-filter across the site and alters the layout to reduce eye-stress.<br />
     This is done through create more compact and spaced-out reviews and centering the navigation.<br />
+    
 ## Photos of the websites different pages and functionalities
 ### Login
 <img width="1440" alt="Screenshot 2022-06-12 at 02 40 47" src="https://user-images.githubusercontent.com/74938876/174228173-c1246868-cf18-4175-87a4-faa4b85a72b6.png"><br />
