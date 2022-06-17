@@ -31,10 +31,13 @@
     24x24 Board
     99 Mines & Flags
 ```
-## Gameplay of all game states
-### Ongoing
-<img width="1094" alt="Screenshot 2022-02-03 at 09 31 18" src="https://user-images.githubusercontent.com/74938876/152308577-e18cda55-d1ea-4f97-a68c-115bd6c79ab2.png"><br />
-### Victorious 
-<img width="1094" alt="Screenshot 2022-02-03 at 09 38 28" src="https://user-images.githubusercontent.com/74938876/152308554-7611a9c7-db78-4adf-a1c0-c32c69fb3636.png"><br />
-### Defeated
-<img width="1095" alt="Screenshot 2022-02-03 at 09 25 34" src="https://user-images.githubusercontent.com/74938876/152308588-cacd13b9-7d8b-487c-8f7c-f726357a4ff4.png">
+## Photos of the websites different pages and functionalities
+### Login
+<img width="1440" alt="Screenshot 2022-06-12 at 02 40 47" src="https://user-images.githubusercontent.com/74938876/174228173-c1246868-cf18-4175-87a4-faa4b85a72b6.png"><br />
+### Create Account 
+<img width="1440" alt="Screenshot 2022-06-12 at 02 40 55" src="https://user-images.githubusercontent.com/74938876/174228209-96100225-ae4a-4090-a3a5-8d4461abd842.png"><br />
+### Welcome page
+<img width="1440" alt="Screenshot 2022-06-12 at 02 41 04" src="https://user-images.githubusercontent.com/74938876/174228241-f90a9b4a-6a4b-42ff-a650-14ad9b159533.png"><br />
+### House page
+<img width="1440" alt="Screenshot 2022-06-12 at 02 41 15" src="https://user-images.githubusercontent.com/74938876/174228264-fd7b2997-c8fd-4cb2-8e4a-61f3ab3cf579.png"><br />
+
