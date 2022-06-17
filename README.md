@@ -8,15 +8,15 @@
 
   **Account system**<br />
   
-    To allow users to interact with the website and handle their own reviews, an account system is implemented.<br />
-    This accoutn system allows users to create an account, login to that account and post reviews.<br />
-    This also allows for reviews to corrospond to users by giving them an author.<br />
-    The account system was implemented through PHP and the use of a database.<br />
+    To allow users to interact with the website and handle their own reviews, an account system is implemented.
+    This accoutn system allows users to create an account, login to that account and post reviews.
+    This also allows for reviews to corrospond to users by giving them an author.
+    The account system was implemented through PHP and the use of a database.
   **Visually Impaired Accessibility Toggle**<br />
   
-    In order to create a website that was accessible to those with visual disorders a toggle system was implemented.<br />
-    This toggle, when clicked, applies a colour invert-filter across the site and alters the layout to reduce eye-stress.<br />
-    This is done through create more compact and spaced-out reviews and centering the navigation.<br />
+    In order to create a website that was accessible to those with visual disorders a toggle system was implemented.
+    This toggle, when clicked, applies a colour invert-filter across the site and alters the layout to reduce eye-stress.
+    This is done through create more compact and spaced-out reviews and centering the navigation.
     
 ## Photos of the websites different pages and functionalities
 ### Login
